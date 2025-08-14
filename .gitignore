@@ -1,0 +1,12 @@
+.dart_tool/
+.packages
+.pub/
+build/
+.vscode/
+.DS_Store
+Thumbs.db
+*.iml
+*.lock
+**/generated_plugin_registrant.*
+**/generated_plugins.cmake
+**/local.properties
